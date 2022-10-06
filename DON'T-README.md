@@ -12,6 +12,18 @@ Pode ser considerado como um marco ao longo do cronograma de um arquivo ou proje
 
 Dentro do github logado, aperte três vezes a tecla `.` (ponto).
 
+```
+git log
+```
+```
+git log --oneline
+```
+```
+git clone <url>
+```
+```
+git pull <url>
+```
 ## Push
 
 
